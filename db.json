@@ -1,5 +1,5 @@
-[
   {
+    "Viajes":[
     "id": 1,
     "nombre": "Office 365",
     "precio": "29.990",
@@ -31,4 +31,8 @@
     "categoria": "Laptop",
     "imagen": "https://falabella.scene7.com/is/image/Falabella/6664036_1?$producto308$&wid=800&hei=800&qlt=70"
   }
-]
+],
+    "Perfil":{
+      "name":"test"
+    }
+  }
