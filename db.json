@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Office 365",
+    "precio": "29.990",
+    "descripción": "Office 365 Personal te permite tener 1TB de almacenamiento en la nube, además de 60 minutos mensuales por usuario para llamar a cualquier lugar del mundo por Skype. Tendrás suscripción por un año con la última versión completa e instalada de Word, Excel y PowerPoint, entre otros. Esto es para un Pc o Mac, una tablet o iPad, Android o Windows y un teléfono.",
+    "categoria": "Software",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/4269135_1?$producto308$&wid=800&hei=800&qlt=70"
+  },
+  {
+    "id": 2,
+    "nombre": "Windows 10 Home",
+    "precio": "159.990",
+    "descripción": "Formato descargable: Al comprar este producto, el formato de entrega del software será mediante un código descargable que será enviado al correo del cliente. Producto no físico.",
+    "categoria": "Software",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/6132063_1?$producto308$&wid=800&hei=800&qlt=70"
+  },
+  {
+    "id": 3,
+    "nombre": "Kaspersky Antivirus",
+    "precio": "120.990",
+    "descripción": "Kaspersky Small Office Security 6 for Desktops, Mobiles and File Servers Latin America Edition. 5-Mobile device; 5-Desktop; 1-FileServer; 5-User 1 year Base Download Pack",
+    "categoria": "Software",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/6884945_1?$producto308$&wid=800&hei=800&qlt=70"
+  },
+  {
+    "id": 4,
+    "nombre": "MacBook Pro",
+    "precio": "2.090.990",
+    "descripción": "Procesador: Intel Core i7",
+    "categoria": "Laptop",
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/6664036_1?$producto308$&wid=800&hei=800&qlt=70"
+  }
+]
